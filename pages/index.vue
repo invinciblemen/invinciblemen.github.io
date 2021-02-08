@@ -14,6 +14,7 @@
         >
           Documentation
         </a>
+        <nuxt-link to="about" class="button--green">关于</nuxt-link>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
